@@ -1,0 +1,55 @@
+{
+	"travel-blogs" : [
+
+		{"link": "https://www.wanderingearl.com/blog/page/", 
+                        "read-more-class-name": "more-link",
+                        "content-class-name": "entry-content", 
+                        "num-of-pages": 40 },
+
+        {"link": "https://www.nomadicmatt.com/travel-blog/page/",  
+                        "read-more-class-name": "more-link",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 100 },
+                        
+        {"link": "https://www.thepoortraveler.net/blog/page/", 
+                        "read-more-class-name": "readmore",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 70 },
+
+        {"link": "https://www.ytravelblog.com/blog/page/", 
+                        "read-more-class-name": "read-more",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 100 },
+
+        {"link": "https://iamaileen.com/blog/page/", 
+                        "read-more-class-name": "read-more",
+                        "content-class-name": "yit_the_content",
+                        "num-of-pages": 25 },
+
+        {"link": "http://www.unchartedbackpacker.com/blog/page/", 
+                        "read-more-class-name": "read_more_button",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 10 },
+
+        {"link": "https://www.travelsauro.com/blog/page/", 
+                        "read-more-class-name": "more-link",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 14 },
+
+        {"link": "https://www.bemytravelmuse.com/blog/page/", 
+                        "read-more-class-name": "entry-title-link",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 100 },
+
+        {"link": "https://theworldpursuit.com/blog/page/", 
+                        "read-more-class-name": "more-link",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 30 },
+
+        {"link": "https://www.findingtheuniverse.com/blog/page/", 
+                        "read-more-class-name": "more-link",
+                        "content-class-name": "entry-content",
+                        "num-of-pages": 50 }             
+    ]
+}
+
