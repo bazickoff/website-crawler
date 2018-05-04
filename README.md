@@ -2,13 +2,13 @@
 
 Python Crawler for Wordpress travel blogs
 
-I have written a simple crawler using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) - a python library, to extract text content from top travel blogs written using [wordpress](https://wordpress.com/). 
+I have written a simple crawler using [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) (a python library) to extract text content from top travel blogs written using [wordpress](https://wordpress.com/). 
 
 Blogs that have been written with wordpress share almost the same HTML structure. For example, let's take a look at [Nomadic Matt’s](http://www.nomadicmatt.com/) blog: 
 
 ![picture](images/nomadicMatt.png)
     
-Every page has a fixed number of blogs. The crawler first extracts links to the blogs from each page.  Once you click on a blog, all the content can be found in the CSS container labelled with “entry-content”. The crawler extracts this content from each blog.
+Every page has a fixed number of blogs. The crawler first extracts links to the blogs from each page.  Once you click on a blog, all the content can be found in the CSS container labelled with “entry-content”. The crawler then extracts this content from each blog.
 
 ![picture](images/nomadicMatt1.png)
 
