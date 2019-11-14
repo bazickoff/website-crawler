@@ -1,0 +1,15 @@
+{
+  "job-market-data": [
+    {
+      "location": "Seattle",
+      "root_link": "https://www.builtinseattle.com",
+      "companies_page": "/companies?",
+      "all": "status=all",
+      "hiring_now": "status=hiring_now",
+      "pagination_query_string": "&page=",
+      "class_name": "wrap-view-page a",
+      "number_of_pages": 102
+    }
+  ]
+}
+
