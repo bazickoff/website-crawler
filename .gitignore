@@ -1,3 +1,5 @@
 */output.txt
 .idea/
 **/images/
+fifi_crawler/data/*
+fifi_crawler/*.log
